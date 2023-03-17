@@ -1,6 +1,6 @@
 -  Hi, I’m @Khanaksahu
--  I’m a student 
-- I’m currently learning python , c++ 
+-  I’m a student in Vellore Institute of Technology 
+- I’m currently learning web development .
 
 
 <!---
