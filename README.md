@@ -1,9 +1,4 @@
--  Hi, I’m @Khanaksahu
--  I’m a student in Vellore Institute of Technology 
-- I’m currently learning web development .
 
+Hi, I'm Khanak Sahu, a Computer Science & Engineering student at VIT Vellore. I have extensive experience working on full stack projects and am currently delving into hands-on data science projects and data structures and algorithms (DSA).
 
-<!---
-Khanaksahu/Khanaksahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Connect with me: [khanak3012@gmail.com] 
